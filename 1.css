@@ -1,0 +1,20 @@
+.a{
+    background-color: bisque;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+}
+.b{
+    background-color: bisque;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    transform: rotate(25deg);
+}
+.c{
+    background-color: bisque;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    transform: rotate(-25deg); 
+}
